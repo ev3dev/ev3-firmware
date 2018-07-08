@@ -1,3 +1,10 @@
+firmware-ev3 (3) stable; urgency=medium
+
+  * add firmware for tacho rpmsg driver
+  * update debian packaging for ev3dev-stretch
+
+ -- David Lechner <david@lechnology.com>  Sun, 08 Jul 2018 18:00:12 -0500
+
 firmware-ev3 (2) stable; urgency=medium
 
   * Add firmware for Bluetooth chip on newer EV3 hardware.
