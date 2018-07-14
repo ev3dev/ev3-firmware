@@ -1,3 +1,9 @@
+firmware-ev3 (4) stable; urgency=medium
+
+  * replace rproc-pru1-fw with ev3-pru1.fw
+
+ -- David Lechner <david@lechnology.com>  Sat, 14 Jul 2018 15:20:23 -0500
+
 firmware-ev3 (3) stable; urgency=medium
 
   * add firmware for tacho rpmsg driver
