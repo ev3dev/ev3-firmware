@@ -1,3 +1,10 @@
+firmware-ev3 (6) stable; urgency=medium
+
+  * Update TIInit_6.6.15.bts from bluetooth_init_cc2560A_2.10.bts to
+    bluetooth_init_cc2560A_2.14.bts
+
+ -- David Lechner <david@lechnology.com>  Fri, 07 Dec 2018 00:33:34 -0600
+
 firmware-ev3 (5) stable; urgency=medium
 
   * Drop PRU_SUART.bin and ev3-pru1.fw
